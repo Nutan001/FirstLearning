@@ -4,4 +4,8 @@ I made changes to it for the first time
 
 I made changs to it for the second time
 
+<<<<<<< HEAD
 made changes on git
+=======
+Made changes on github
+>>>>>>> 92db8070f78ebfccc3899e44ab8525508bd77b2c
